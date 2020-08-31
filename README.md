@@ -1,4 +1,4 @@
-<h1 align="center">Ohayou 👋, </h1>
+<h1 align="center">Ohayo 👋, </h1>
 <h1 align="center">I'm Nei Shammah</h1>
 <h3 align="center">Software developer from Port Harcourt, Nigeria</h3>
 
