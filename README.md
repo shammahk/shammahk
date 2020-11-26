@@ -2,7 +2,7 @@
 <h1 align="center">I'm Nei Shammah</h1>
 <h3 align="center">Software developer from Port Harcourt, Nigeria</h3>
 
-- 🌱 I’m currently learning **React Native and expressJs**
+- 🌱 I’m currently learning **React Native and ElectronJs**
 
 - 📝 I regulary write articles on [https://hashnode.com/@Shammahk](https://hashnode.com/@Shammahk)
 
