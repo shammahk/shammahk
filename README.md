@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **FIFA over PES**
 
-[![Shammah's github stats](https://github-readme-stats.vercel.app/api?username=shammahk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shammahk/)
+[![Shammah's github stats](https://github-readme-stats.vercel.app/api?username=shammahk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dracula)](https://github.com/shammahk/)
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/kamalo_shammah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/kamalo_shammah" height="30" width="30" /></a>
